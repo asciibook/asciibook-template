@@ -1,0 +1,2 @@
+= Book Title
+Author Name <author@example.com>
