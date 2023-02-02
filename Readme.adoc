@@ -1,0 +1,5 @@
+= Asciibook Template
+
+A template to setup Asciibook and github pages.
+
+Click link to use this template: https://github.com/asciibook/asciibook-template/generate
